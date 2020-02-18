@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+  height: 55%;
+  width: 85%;
+}
+
+.rectangle {
+  background-color: #c4c4c4;
+  height: 100%;
+  width: 100%;
+}
+
+.blank {
+  height: 100%;
+  width: 100%;
+}
